@@ -33,6 +33,10 @@ src="https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d7
 </a>
 
 ### Languages & Tools I use ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10xyz-coder)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10xyz-coder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=codepen,discord,bots,express,godot,html,css,js,nodejs,py,vscode" />
+  </a>
+</p>
+
 
