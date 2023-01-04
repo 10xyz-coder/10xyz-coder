@@ -32,11 +32,13 @@ src="https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d7
     border="0" height="50" alt="10xyz Coder on YouTube" />
 </a>
 
+
 ### Languages & Tools I use ###
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=codepen,discord,bots,express,godot,html,css,js,nodejs,py,vscode" />
-  </a>
+  </a> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xyz-coder&theme=blue-green"></img>
 </p>
 
 
