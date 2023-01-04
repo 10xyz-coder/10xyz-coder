@@ -34,7 +34,7 @@ src="https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d7
 
 ### Languages & Tools I use ###
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=codepen,discord,bots,express,godot,html,css,js,nodejs,py,vscode" />
   </a>
 </p>
